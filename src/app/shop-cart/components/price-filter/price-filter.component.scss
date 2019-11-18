@@ -1,0 +1,12 @@
+.container {
+  margin-top: 15%;
+  width:100%;
+
+  .add-to-cart-button {
+    position: relative;
+    font-size: 110%;
+    border-radius: 10px;
+    margin-left: 50%;
+    transform: translateX(-50%);
+  }
+}
